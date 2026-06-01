@@ -1,4 +1,3 @@
-coding of Hello world.
 
 #include <stdio.h>
 int main(){
@@ -7,28 +6,5 @@ return 0;
 }
 
 
-
-coding of to test greatest of three numbers
-
-#include <stdio.h>
-int main(){
-int a,b,c,d;
-    printf("enter the numbers");
-    scanf("%d %d %d %d",&a,&b,&c,&d);
-
-int greatest=a;
-
-     if(b>greatest);
-     greatest =b;
-
-       if(c>greatest);
-       greatest=c;
-
-         if(d>greatest);
-          greatest=d;
-
-printf("the greatest of the given numbers is %d",greatest);
-return 0;
-}
 
 
