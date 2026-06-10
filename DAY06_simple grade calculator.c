@@ -38,7 +38,7 @@ case 20:
        printf("\nyour  total marks out of 20 is %d\npass\ngrade: A",SUM);
        break;       
 default :
-        printf("\nyour total marks out of 20 is %d\nfailed",SUM);
+        printf("\nyour total marks out of 20 is %d\nfailed\nyou need to study more to get pass \n dont underestimateyourselfby seeing others",SUM);
 }        
           
 
