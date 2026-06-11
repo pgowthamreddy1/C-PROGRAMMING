@@ -15,6 +15,6 @@ int g=e/10;
 int h=g%10;
 int j=g/10;
 int sum=b+d+f+h+j;
-printf("the sum of digits of the given number is : %d",sum);
+printf("the sum of the digits of the given number is: %d",sum);
 return 0;
 }
